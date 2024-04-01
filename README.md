@@ -1,5 +1,5 @@
 # SIMULATION AND IMPLEMENTATION OF MULTIPLIER
-**AIM: **
+**AIM:**
  To simulate multiplier using Vivado 2023.2.
 
 **APPARATUS REQUIRED:**
