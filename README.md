@@ -153,12 +153,6 @@ buf(m[7],c[12]);
 
 endmodule
 
-![image](https://github.com/RCKcharan10/VLSI-LAB-EXP-3/assets/117891438/128538c5-d0d4-4040-9362-bf5f2b138c8c)
-
-![image](https://github.com/RCKcharan10/VLSI-LAB-EXP-3/assets/117891438/753eec6f-87d3-4329-981d-bf283312248b)
-
-
-endmodule
 
 **Output Waveform**
 
