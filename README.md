@@ -29,7 +29,7 @@ STEP:11  On the board, by giving required input, the LEDs starts to glow light, 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
 
 
-#Verilog code
+**Verilog code**
 **Multiplexer 2bit**
 
 module multiplier2by2(C,A,B);
