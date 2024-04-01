@@ -66,9 +66,32 @@ and(carry,a,b);
 
 endmodule
 
+**Multiplier 4 bit**
+
+module Multiplier_4bit(
+
+    input [3:0] A,
+
+    input [3:0] B,
+    
+    output reg [7:0] P
+
+);
+
+always @(*) begin
+ 
+    P = A * B;
+
+end
+
+endmodule
+
 **Output Waveform**
 
-<<< Simulation output waveform paste it here >>>>>
+<<< ![2bit Multiplier](https://github.com/RCKcharan10/VLSI-LAB-EXP-3/assets/117891438/cf2b32db-9865-4756-9dcc-bffe2f3b46ea) 
+
+![4bit Multiplier](https://github.com/RCKcharan10/VLSI-LAB-EXP-3/assets/117891438/01408e8c-e6d4-4aca-b988-eb961089a62f)
+>>>>>
 
 
 **Result**
