@@ -1,10 +1,9 @@
-SIMULATION AND IMPLEMENTATION OF MULTIPLIER
+# SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 **AIM: **
- To simulate and synthesis multiplier using Xilinx ISE.
+ To simulate multiplier using Vivado 2023.2.
 
 **APPARATUS REQUIRED:**
-Xilinx 14.7
-Spartan6 FPGA
+Vivado 2023.2
   
 **PROCEDURE:**
 STEP:1  Start  the Xilinx navigator, Select and Name the New project.
@@ -98,9 +97,13 @@ endmodule
 ```
 
 # **Output Waveform**
+
 # 2bit Multiplier
+
 ![2bit Multiplier](https://github.com/RCKcharan10/VLSI-LAB-EXP-3/assets/117891438/cf2b32db-9865-4756-9dcc-bffe2f3b46ea) 
+
 # 4bit Multiplier
+
 ![4bit Multiplier](https://github.com/RCKcharan10/VLSI-LAB-EXP-3/assets/117891438/01408e8c-e6d4-4aca-b988-eb961089a62f)
 
 
