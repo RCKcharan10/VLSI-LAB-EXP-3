@@ -1,4 +1,4 @@
-# SIMULATION AND IMPLEMENTATION OF MULTIPLIER
+# 3.SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 
 **AIM:**
  To simulate multiplier using Vivado 2023.1.
@@ -114,8 +114,17 @@ endmodule
 
 ![4bit Multiplier](https://github.com/RCKcharan10/VLSI-LAB-EXP-3/assets/117891438/01408e8c-e6d4-4aca-b988-eb961089a62f)
 
+# **RTL Design**
 
+# 2bit Multiplier
 
+<img width="760" alt="2 bit multi" src="https://github.com/RCKcharan10/VLSI-LAB-EXP-3/assets/117891438/8af87b44-d89d-44f6-86aa-361176fd9c0d">
+
+# 4bit Multiplier
+
+<img width="758" alt="4 bit multi" src="https://github.com/RCKcharan10/VLSI-LAB-EXP-3/assets/117891438/5ee9e9e8-2916-4e4c-beb6-7eb3a04a8868">
+
+                                 
 **Result**
 
 Thus the Simulation and Implementation of Multiplier is verified
