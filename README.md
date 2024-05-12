@@ -127,7 +127,7 @@ endmodule
 <img width="758" alt="4 bit multi" src="https://github.com/RCKcharan10/VLSI-LAB-EXP-3/assets/117891438/5ee9e9e8-2916-4e4c-beb6-7eb3a04a8868">
 
                                  
-**Result**
+# Result
 
 Thus the Simulation and Implementation of Multiplier is verified
 
