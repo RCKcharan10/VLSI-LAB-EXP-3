@@ -1,12 +1,14 @@
 # 3.SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 
-**AIM:**
+# AIM:
  To simulate multiplier using Vivado 2023.1.
 
-**APPARATUS REQUIRED:**
+# APPARATUS REQUIRED:
+
 Vivado 2023.1
   
-**PROCEDURE:**
+# PROCEDURE:
+
 1. Open Vivado: Launch Xilinx Vivado software on your computer.
 
 2. Create a New Project: Click on "Create Project" from the welcome page or navigate through "File" > "Project" > "New".
@@ -26,7 +28,7 @@ Vivado 2023.1
 9. View Results: After the simulation completes, you can view waveforms, debug signals, and analyze the behavior of your design.
 
 
-**Logic Diagram**
+# Logic Diagram
 2 bit Multiplier
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
